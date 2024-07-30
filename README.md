@@ -1,4 +1,7 @@
-For loan approval prediction using ML models, refer: https://github.com/CherrrYY123/Loan-Approval-Prediction
+# Prediction using ML
+
+- For loan approval prediction using ML models, refer: 
+`https://github.com/CherrrYY123/Loan-Approval-Prediction`
 
 # Loan Approval Analysis
 
